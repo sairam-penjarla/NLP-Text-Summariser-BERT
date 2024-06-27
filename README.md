@@ -13,7 +13,7 @@ This repository provides a Python class (`TextSummarizer`) for text summarizatio
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sairam-penjarla/text-summariser-bert.git
+   git clone https://github.com/sairam-penjarla/NLP-Text-Summariser-BERT.git
    ```
 
 2. Install required dependencies:
